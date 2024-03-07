@@ -45,7 +45,7 @@ I created these images, feel free to use them.
 -->
 <p align="center">
   <a href="wxp://f2f0ASVkzywbPT6PjbWS5RTcgHgc9ncs8VBnNdFQk-P9JJE" target="_blank">
-    <img width="18%" alt="微信支付" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
+    <img width="18%" alt="微信支付" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-alipay.png"/>
   </a>
   <a href="https://www.paypal.com/qrcodes/p2pqrc/JCZSRND6NUTUY" target="_blank">
        <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
