@@ -1,20 +1,20 @@
 ## Hello GitHub Fans 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/REN-KEWEI)
-[![Github](https://img.shields.io/badge/-instagram-red?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ren_kewei?igsh=MTFobWNueXRkNGZlbQ%3D%3D&utm_source=qr)
-[![Github](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://)
-[![Github](https://img.shields.io/badge/-twitter-black?style=flat&logo=x&logoColor=white)](https://)
+[![instagram](https://img.shields.io/badge/-instagram-red?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ren_kewei?igsh=MTFobWNueXRkNGZlbQ%3D%3D&utm_source=qr)
+[![facebook](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://)
+[![X](https://img.shields.io/badge/-twitter-black?style=flat&logo=x&logoColor=white)](https://)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:epiphany1582444986@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm REN KEWEI
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Changsha, China.
-- 💬 Ask me about Java, TypeScript and my projects on [1582444986@qq.com](mailto:1582444986@qq.com)
-- ⭐ You may like [webkettle]
-- ⚡ Fun fact: Data Analysis📊
+- A software engineering Student. & Open Source enthusiast.
+- 🌱 Currently studying in Changsha, China.
+- 💬 Ask me about on [1582444986@qq.com](mailto:1582444986@qq.com)
+- ⭐ You may like []
+- ⚡ Things of interest: game📊
 
 ### 🛠 技术栈 | Tech Stack
 
