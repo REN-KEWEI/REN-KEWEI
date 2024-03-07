@@ -1,8 +1,7 @@
 ## Hello GitHub Fans 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/REN-KEWEI)
-[![Github](https://img.shields.io/badge/-instagram-blue?style=flat&logo=instagram&logoColor=white)](https://github.com/REN-KEWEI)
-[![insgram]([https://img.shields.io/badge/-instagram-blue?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ren_kewei?igsh=MTFobWNueXRkNGZlbQ%3D%3D&utm_source=qr)
+[![Github](https://img.shields.io/badge/-instagram-red?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ren_kewei?igsh=MTFobWNueXRkNGZlbQ%3D%3D&utm_source=qr)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:epiphany1582444986@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
