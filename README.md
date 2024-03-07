@@ -13,7 +13,7 @@
 - A software engineering Student. & Open Source enthusiast.
 - 🌱 Currently studying in Changsha, China.
 - 💬 Ask me about on [1582444986@qq.com](mailto:1582444986@qq.com)
-- ⭐ You may like [Watch my life](http://user.qzone.qq.com/1582444986)
+- ⭐ You may like [Watch my life](https://user.qzone.qq.com/1582444986/main)
 - ⚡ Things of interest: game📊
 
 ### 🛠 Tech Stack
