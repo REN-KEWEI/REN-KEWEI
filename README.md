@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/REN-KEWEI)
 [![instagram](https://img.shields.io/badge/-instagram-red?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ren_kewei)
 [![facebook](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095064303339)
-[![X](https://img.shields.io/badge/-twitter-black?style=flat&logo=x&logoColor=white)](https://)
+[![X](https://img.shields.io/badge/-twitter-black?style=flat&logo=x&logoColor=white)](https://twitter.com/Epiphany_520)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:epiphany1582444986@gmail.com)
 [![Gmail](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/epiphany520)
 ---
