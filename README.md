@@ -5,7 +5,8 @@
 [![facebook](https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095064303339)
 [![X](https://img.shields.io/badge/-twitter-black?style=flat&logo=x&logoColor=white)](https://twitter.com/Epiphany_520)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:epiphany1582444986@gmail.com)
-[![Gmail](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/epiphany520)
+[![telegram](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/epiphany520)
+[![whatsapp](https://img.shields.io/badge/-whatsapp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9705791934)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
