@@ -35,8 +35,6 @@
 
 ### 关于我
 
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=REN-KEWEI)](https://github.com/anuraghazra/github-readme-stats)
-
 - [技术笔记]()
 - [CSDN]()
 - [微博]()
