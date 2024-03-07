@@ -44,13 +44,13 @@
 I created these images, feel free to use them.
 -->
 <p align="center">
-  <a href="https://www.patreon.com/XXX" target="_blank">
+  <a href="wxp://f2f0ASVkzywbPT6PjbWS5RTcgHgc9ncs8VBnNdFQk-P9JJE" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
   </a>
   <a href="https://www.paypal.com/qrcodes/p2pqrc/JCZSRND6NUTUY" target="_blank">
        <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
   </a>
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
+  <a href="https://qr.alipay.com/fkx16357herlxaxh2hp7j4b" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
