@@ -37,7 +37,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-### 🔍 关于我
+### 🔍 about me
 
 - [技术笔记（是不可能写的）]() 
 - [CSDN（是没有项目的）]()
