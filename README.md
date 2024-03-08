@@ -19,6 +19,7 @@
 - ⚡ Things of interest: game📊
 
 ## 🛠 Tech Stack
+noting here
 
 ## :computer: Programming languages and tools: 
 <p>
