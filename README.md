@@ -43,9 +43,9 @@
 
 ## 🔍 about me
 
-- [技术笔记（是不可能写的）]() 
-- [CSDN（是没有项目的）]()
-- [微博（是不玩的）]()
+- [技术笔记（是不可能写的）](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E5%B0%8F%E4%B8%91%E6%98%AF%E6%80%8E%E4%B9%88%E8%AF%9E%E7%94%9F%E7%9A%84&oq=%25E6%2596%25B0%25E9%2597%25BB&rsv_pq=8e12e939000dc183&rsv_t=0f4dqxdND0mmNx1n%2BfJsbUEhXetoqhmLd9%2B4lxVU7i1%2Fvh6XOe%2F6Aml3Wyk&rqlang=cn&rsv_dl=tb&rsv_enter=1&rsv_sug3=27&rsv_sug1=12&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=11236&rsv_sug4=11236) 
+- [CSDN（是没有项目的）](https://blog.csdn.net/m0_72067495)
+- [微博（是不玩的）](https://weibo.com/u/5902189872)
 
 ## 💸 Support me
 
