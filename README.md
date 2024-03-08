@@ -10,7 +10,7 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### 🔊 I'm REN KEWEI
+## 🔊 I'm REN KEWEI
 
 - A software engineering Student. & Open Source enthusiast.
 - 🌱 Currently studying in Changsha, China.
@@ -18,9 +18,9 @@
 - ⭐ You may like [Watch my life](https://user.qzone.qq.com/1582444986/main)
 - ⚡ Things of interest: game📊
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-#### :computer: Programming languages and tools: 
+## :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
@@ -37,7 +37,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-### 🔍 about me
+## 🔍 about me
 
 - [技术笔记（是不可能写的）]() 
 - [CSDN（是没有项目的）]()
