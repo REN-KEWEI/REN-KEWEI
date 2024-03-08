@@ -50,18 +50,19 @@
 ## 💸 Support me
 
 <p align="center">
-	BY:
   <a href=" " target="_blank">
+	  
     <img width="18%" alt="微信支付" src="https://www.logo.wine/a/logo/WeChat/WeChat-Logo.wine.svg"/>
   </a>
-	BY:
+	
   <a href="https://www.paypal.com/qrcodes/p2pqrc/JCZSRND6NUTUY" target="_blank">
        <img width="18%" alt="Paypal支付" src="https://www.logo.wine/a/logo/PayPal/PayPal-Logo.wine.svg"/>
   </a>
-	BY:
+	
   <a href="https://qr.alipay.com/fkx16357herlxaxh2hp7j4b" target="_blank">
       <img width="18%" alt="支付宝支付" src="https://www.logo.wine/a/logo/Alipay/Alipay-Logo.wine.svg"/>
   </a>
+  
 </p>
 
 ---
