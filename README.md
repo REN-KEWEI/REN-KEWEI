@@ -20,9 +20,9 @@
 
 ### 🛠 Tech Stack
 
-- noting here
+- noting here ↓
 
-- 
+- look down ↓
 
 ## :computer: Programming languages and tools: 
 <p>
